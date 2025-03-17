@@ -1,1 +1,1 @@
-# palindromeChecker
+Simple Palindrome project
